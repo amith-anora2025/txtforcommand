@@ -19,4 +19,4 @@ int main(){
         printf("%d",arr[j]);
         j--;
     }
-}
+}This is the first code
