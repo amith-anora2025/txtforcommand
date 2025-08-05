@@ -19,4 +19,5 @@ int main(){
     printf("the number is\n");
     check(a);
     return 0;
+    //this is a support feature
 }
